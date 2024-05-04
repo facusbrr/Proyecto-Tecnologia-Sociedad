@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    background-color: #825142;
+}
+
+main{
+    min-height: 100vh;
+}
+
+/* Header y Navbar */
+header {
+    min-height: 120px;
+}
+
+.navbar-brand img{
+    height: 80px !important;
+}
+
+nav {
+    background-color: #825142;
+}
+
+ul .nav-link {
+    color: #462441;
+    font-weight: bold;
+}
+
+/* Footer */
+
+footer {
+    background-color: #825142;
+}
