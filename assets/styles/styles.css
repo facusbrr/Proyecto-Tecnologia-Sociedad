@@ -1,7 +1,7 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     min-height: 100vh;
-    background-color: #825142;
+    background-color: #003400;
 }
 
 main{
@@ -18,16 +18,16 @@ header {
 }
 
 nav {
-    background-color: #825142;
+    background-color: #5ccb5f;
 }
 
 ul .nav-link {
-    color: #462441;
+    color: #000000;
     font-weight: bold;
 }
 
 /* Footer */
 
 footer {
-    background-color: #825142;
+    background-color: #5ccb5f;
 }
