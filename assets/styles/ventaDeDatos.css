@@ -1,7 +1,8 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     min-height: 100vh;
-    background-color: #003400;
+    background-image: url(https://i.pinimg.com/originals/c6/57/8c/c6578c2dea4e8376de3379fc3ed67460.jpg);
+    color: aliceblue;
 }
 
 main{
